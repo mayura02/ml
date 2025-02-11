@@ -1,1 +1,1 @@
-Vtu Machine Learning Lab Programs
+Basic Exercises with Python and ML
